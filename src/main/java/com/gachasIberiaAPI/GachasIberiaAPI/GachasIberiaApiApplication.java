@@ -9,6 +9,7 @@ public class GachasIberiaApiApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext context = SpringApplication.run(GachasIberiaApiApplication.class, args);
+		System.out.println("✅ Gachas Iberia API iniciada correctamente");
 	}
 
 }
