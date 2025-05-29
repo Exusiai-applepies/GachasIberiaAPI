@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
     public class Main {
         @GetMapping("/")
         public String home() {
-            return "Gachas Iberia API está corriendo";
+                return "Gachas Iberia API está corriendo";
         }
     }
 
