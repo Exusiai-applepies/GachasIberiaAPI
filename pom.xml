@@ -67,7 +67,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.gachasIberiaAPI.GachasIberiaApiApplication</mainClass>
+					<mainClass>com.gachasiberiaapi.GachasIberiaApiApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
